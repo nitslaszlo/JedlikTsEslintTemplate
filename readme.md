@@ -83,8 +83,6 @@ itt nincs még (Deploy menete: Deploy_on_Heroku.pdf)
 ## E. Komponensek frissítése<br>
 - VSCode: Automatikus, balra lent a fogaskeréken jelzi, ha új verzió jön ki
 - VSCode kiterjesztések: Automatikus, balra az Extensions ikon jelzi, ha új verzió jön ki
-- TypeScript: npm update -g typescript
-- Node.js: npm install --save-dev @types/node
 
 ## F. Hasznos linkek:
 - https://www.typescriptlang.org/docs/home.html

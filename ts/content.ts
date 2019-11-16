@@ -20,8 +20,8 @@ export default class Content {
       "<b>Fejlesztői környezet telepítésének leírása, forráskód GitHub repository:</b><br>"
     );
     res.write(
-      "<a href='https://github.com/nitslaszlo/JedlikTsTemplate' target='_blank'>" +
-        "https://github.com/nitslaszlo/JedlikTsTemplate</a><br>"
+      "<a href='https://github.com/nitslaszlo/JedlikTsEslintTemplate' target='_blank'>" +
+        "https://github.com/nitslaszlo/JedlikTsEslintTemplate</a><br>"
     );
     res.end();
   }
