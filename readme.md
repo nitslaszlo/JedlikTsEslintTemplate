@@ -1,7 +1,7 @@
-#  VS Code + TypeScript + Node.js + GitHub + Heroku
+#  VS Code + TypeScript + Node.js + GitHub + ESLint + Prettier + Heroku
 
 ## Heroku teszt:
-https://jedlik-ts-template.herokuapp.com/ (Deploy menete: Deploy_on_Heroku.pdf)
+itt nincs még (Deploy menete: Deploy_on_Heroku.pdf)
 
 ## A.  Fejlesztői környezet telepítése, beállítása
 1.  Node.js letöltése, telepítése:<br>
